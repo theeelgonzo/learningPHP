@@ -26,3 +26,7 @@ $brothers = array(
         'state' => 'OK'
     )
     );
+
+    echo( $brothers['Kirk']['state'] );
+    echo "\n";
+    print_r( $brothers['Jordan']['job']);
