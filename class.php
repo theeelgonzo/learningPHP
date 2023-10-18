@@ -18,3 +18,4 @@ $jordan = new Person('Jordan', 33);
 $rachel = new Person('Rachel', 46);
 
 echo $jordan->get_name();
+//get class object values
