@@ -1,4 +1,6 @@
-<?php require 'variables.php'?>
+<?php 
+require_once 'variables.php';
+require 'variables.php'?>
 
 
 
